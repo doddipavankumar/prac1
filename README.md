@@ -1,1 +1,1 @@
-# prac1
+exercise 1 : write an algorithm for acceptig two numbers, divide the first number by second and display the quotientcd
