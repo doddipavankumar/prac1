@@ -1,0 +1,5 @@
+function greaterNumb(10,20){
+let gn = numb1>numb2 ? numb1 : numb2 ;
+console.log(gn)
+}
+greaterNumb(numb1,numb2)
